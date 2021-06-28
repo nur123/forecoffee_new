@@ -1,0 +1,1 @@
+{"uuid":"df304c50-26b3-4522-93ea-0ad27753a037","name":"forecoffee","children":["db184152-166f-4a2a-9ff6-afd010be9641"],"befores":[{"name":"setUpAppium","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1624593289112,"stop":1624593297196}],"afters":[],"links":[],"start":1624593289078,"stop":1624593389055}
